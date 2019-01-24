@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="labels">
+        <item>1. a) b) c)</item>
+        <item>1)2)3)</item>
+    </array>
+    <array name="entry_values">
+        <item>@string/delimiter_default_value</item>
+        <item>@string/delimiter_num_value</item>
+    </array>
+</resources>

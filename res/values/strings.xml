@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExamHelper</string>
+    <string name="select_files">Select Files</string>
+    <string name="questions_list">Most important Questions</string>
+    <string name="alphabetical_choice_key">1.a) b) c)</string>
+    <string name="numerical_choice_key">1) 2) 3)</string>
+    <string name="delimiter_default_value">alpha</string>
+    <string name="delimiter_num_value">num</string>
+    <string name="list_key">delimiter</string>
+    <string name="progress_bar_label">Hold up, we\'re making your life easier\.\.\.</string>
+</resources>
